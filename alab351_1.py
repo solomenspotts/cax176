@@ -1,4 +1,4 @@
-# Part 1: 1) Understanding Programming
+#Part 1: 1) Understanding Programming
 # Computer programming creates instructions for computers to execute tasks that allows users to 
 # to use computer by allowing the computer hardware to work with software. Without computer 
 # #programming we would not be able to use computers.
@@ -15,3 +15,7 @@
 # Part 2: write simple script that prints the following output Hello, World! Welcome to Python 
 # programing
 print("Hello, World!\nWelcome to Python Programming.")
+
+#Part 3: Research Exercise, input() function
+name = input("What is your name?")
+print("Hello",name)
