@@ -17,3 +17,4 @@ number_1 = 1
 number_2 = 2
 
 print(f"The total of 2 times 1 is {number_2 * number_1 ** .5}.")
+
