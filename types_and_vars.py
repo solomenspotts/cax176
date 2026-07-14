@@ -12,4 +12,8 @@ width = 5.5
 height = 2
 area = width * height
 print(f"The area of a {width} x {height} rectangle is {area}. ")
+# Demonstration of use of two arithmetic operators
+number_1 = 1
+number_2 = 2
 
+print(f"The total of 2 times 1 is {number_2 * number_1 ** .5}.")
